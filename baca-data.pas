@@ -33,7 +33,7 @@ begin
           writeln(data);
         end;
 
-      { Menutup file_content }
+      { Menutup file }
       close(F);
     end
   else
